@@ -1,0 +1,9 @@
+/*шрифты*/
+@import url('https://fonts.googleapis.com/css?family=Roboto|ZCOOL+QingKe+HuangYou');
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+h1{
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
